@@ -1,0 +1,3 @@
+com\nanye\springcloud\controller\DeptConsumerController.class
+com\nanye\springcloud\config\ConfigBean.class
+com\nanye\springcloud\FeignDeptConsumer_80.class

@@ -1,0 +1,5 @@
+com\nanye\springcloud\controller\DeptController.class
+com\nanye\springcloud\dao\DeptDao.class
+com\nanye\springcloud\service\DeptServiceImpl.class
+com\nanye\springcloud\DeptProviderHystrix_8001.class
+com\nanye\springcloud\service\DeptService.class
